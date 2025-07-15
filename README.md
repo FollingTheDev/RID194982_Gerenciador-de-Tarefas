@@ -29,7 +29,7 @@ O projeto segue uma estrutura de pastas organizada para separar as preocupaçõe
 
 \`\`\`
 .
-├── index.html
+├── index.html <br>
 ├── public/
 │   └── images/
 │       └── check.png  (Ícone de check para tarefas concluídas)
