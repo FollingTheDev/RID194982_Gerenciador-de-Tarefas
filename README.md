@@ -29,9 +29,9 @@ O projeto segue uma estrutura de pastas organizada para separar as preocupaçõe
 
 \`\`\`
 .
-├── index.html <br>
-├── public/
-│   └── images/
+├── index.html<br>
+├── public/<br>
+│   └── images/<br>
 │       └── check.png  (Ícone de check para tarefas concluídas)
 └── src/
     ├── css/
