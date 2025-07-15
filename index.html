@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Board de Tarefas</title>
+    <link rel="stylesheet" href="src/css/style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Rubik:wght@400;500;700&display=swap" rel="stylesheet">
+</head>
+<body>
+    <div id="app" class="min-h-screen bg-gray-50 p-4">
+        <div class="max-w-2xl mx-auto rubik-font">
+            <div class="card">
+                <header class="card-header">
+                    <h1 class="card-title">Board de tarefas</h1>
+                    <div class="input-group">
+                        <input type="text" id="task-name-input" placeholder="Nome da tarefa" class="input-field">
+                        <input type="text" id="task-label-input" placeholder="Etiqueta" class="input-field label-input">
+                        <button id="add-task-button" class="add-button">+</button>
+                    </div>
+                </header>
+
+                <main class="card-content" id="task-list">
+                    <!-- Tasks will be rendered here by JavaScript -->
+                </main>
+
+                <footer class="card-footer">
+                    <div id="completed-tasks-counter" class="completed-tasks-counter">
+                        0 tarefas concluídas
+                    </div>
+                </footer>
+            </div>
+        </div>
+    </div>
+
+    <script type="module" src="src/js/main.js"></script>
+</body>
+</html>
