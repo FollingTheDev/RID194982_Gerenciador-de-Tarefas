@@ -27,20 +27,19 @@ Este é um projeto de um simples "Board de Tarefas" (Task Manager) desenvolvido 
 
 O projeto segue uma estrutura de pastas organizada para separar as preocupações:
 
-\`\`\`
-.
+
 ├── index.html<br>
 ├── public/<br>
 │   └── images/<br>
-│       └── check.png  (Ícone de check para tarefas concluídas)
-└── src/
-    ├── css/
-    │   └── style.css  (Estilos globais da aplicação)
-    └── js/
-        ├── main.js  (Lógica principal da aplicação e inicialização)
-        └── components/
-            └── task-item.js  (Módulo para criar elementos de tarefa individuais)
-\`\`\`
+│       └── check.png  (Ícone de check para tarefas concluídas)<br>
+└── src/<br>
+    ├── css/<br>
+    │   └── style.css  (Estilos globais da aplicação)<br>
+    └── js/<br>
+        ├── main.js  (Lógica principal da aplicação e inicialização)<br>
+        └── components/<br>
+            └── task-item.js  (Módulo para criar elementos de tarefa individuais)<br>
+
 
 ## Como Rodar o Projeto
 
