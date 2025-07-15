@@ -50,7 +50,7 @@ Para visualizar e interagir com o projeto, siga estes passos simples:
 
 Ou se preferir, acesse o link abaixo: 
 
-1.  rid194982gerenciadordetarefas.netlify.app
+1.  <link>rid194982gerenciadordetarefas.netlify.app</link>
 
 Não é necessário nenhum servidor web ou ambiente de desenvolvimento complexo para rodar este projeto.
 
