@@ -49,6 +49,10 @@ Para visualizar e interagir com o projeto, siga estes passos simples:
 1.  **Clone o repositório** (se aplicável) ou baixe os arquivos do projeto.
 2.  **Abra o arquivo `index.html`** em seu navegador web preferido.
 
+Ou se preferir, acesse o link abaixo: 
+
+1.  rid194982gerenciadordetarefas.netlify.app
+
 Não é necessário nenhum servidor web ou ambiente de desenvolvimento complexo para rodar este projeto.
 
 ## Referência do Figma
