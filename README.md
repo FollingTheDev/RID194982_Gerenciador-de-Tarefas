@@ -51,19 +51,3 @@ Para visualizar e interagir com o projeto, siga estes passos simples:
 Ou se preferir, acesse o link abaixo: 
 
 1.  <a href="https://rid194982gerenciadordetarefas.netlify.app">RID194982_Gerenciador-de-Tarefas<a>
-
-Não é necessário nenhum servidor web ou ambiente de desenvolvimento complexo para rodar este projeto.
-
-## Referência do Figma
-
-O design e o protótipo deste projeto foram baseados no seguinte link do Figma:
-[https://www.figma.com/design/GZzqLg5ATOLfOh7Ea7Guee/Desafio---Board-de-Tarefas-DNC?node-id=0-1&p=f&t=ORA3pwGZYYjm9RUr-0](https://www.figma.com/design/GZzqLg5ATOLfOh7Ea7Guee/Desafio---Board-de-Tarefas-DNC?node-id=0-1&p=f&t=ORA3pwGZYYjm9RUr-0)
-
-## Critérios de Avaliação Atendidos
-
-O projeto foi desenvolvido com foco nos seguintes critérios de avaliação:
-
-*   **Semântica**: Utilização de tags HTML5 semânticas (`<header>`, `<main>`, `<footer>`) para estruturar o conteúdo.
-*   **Tela Responsiva**: Design adaptável que garante a visualização correta em diferentes dispositivos (mobile e desktop).
-*   **Requisitos Funcionais**: Todas as funcionalidades solicitadas (carregamento, adição, conclusão e atualização de estado de tarefas) foram implementadas.
-*   **Boas Práticas de Programação**: Código legível, variáveis e constantes bem nomeadas, e funções com responsabilidade única.
